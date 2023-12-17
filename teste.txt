@@ -1,5 +1,0 @@
-git config --global user.mail "seu email"
-git config --global user.name "seu nome"
-dsaldsakdj
-lmjbugsaddsdsadsad
-sadsad
